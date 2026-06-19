@@ -49,13 +49,17 @@ I'm a Data Scientist based in Switzerland with a passion for turning messy data 
 
 ## 🚀 Current Projects
 
-<a href="https://github.com/smueller-lab/SwissExpenseTracker" target="_blank">
-  <img src="assets/retail.png" alt="SwissExpenseTracker dashboard preview" width="400" />
-</a>
+<div>
+  <a href="https://github.com/smueller-lab/SwissExpenseTracker" target="_blank">
+    <img src="assets/retail.png" alt="SwissExpenseTracker dashboard preview" width="400" />
+  </a>
+</div>
 
-<a href="https://github.com/smueller-lab/SwissExpenseTracker" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smueller-lab&repo=SwissExpenseTracker&theme=tokyonight&show_owner=false" alt="SwissExpenseTracker" />
-</a>
+<div>
+  <a href="https://github.com/smueller-lab/SwissExpenseTracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smueller-lab&repo=SwissExpenseTracker&theme=tokyonight&show_owner=false" alt="SwissExpenseTracker" />
+  </a>
+</div>
 
 ---
 
