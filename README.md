@@ -57,7 +57,7 @@ I'm a Data Scientist based in Switzerland with a passion for turning messy data 
 
 <div>
   <a href="https://github.com/smueller-lab/SwissExpenseTracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smueller-lab&repo=SwissExpenseTracker&theme=tokyonight&show_owner=false" alt="SwissExpenseTracker" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smueller-lab&repo=SwissExpenseTracker&theme=tokyonight&show_owner=false" alt="SwissExpenseTracker" />
   </a>
 </div>
 
@@ -67,7 +67,7 @@ I'm a Data Scientist based in Switzerland with a passion for turning messy data 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smueller-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="Sebastian's GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smueller-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="Sebastian's GitHub stats" height="165" />
 
 </div>
 
