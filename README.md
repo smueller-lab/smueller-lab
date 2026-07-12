@@ -10,16 +10,11 @@ Based in Switzerland 🇨🇭 · Python at heart 🐍 · Sports enthusiast 🚴�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-mueller-dsa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian96mueller@gmail.com)
-
-</div>
-
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a Data Scientist based in Switzerland with a passion for turning messy data into clear insights. I love combining technical problem-solving with the things that get me excited outside of work — whether that's analyzing a tennis match, tracking cycling performance, or building tools that make everyday life a little smarter.
+I'm a Data Scientist & AI Engineer based in Switzerland who builds **data-driven products** — not just analyses. My focus is the whole path from raw, messy data to something people actually use: robust pipelines, models that hold up outside the notebook, and interfaces that turn insight into a decision.
 
 - 🏗️ Currently building **SwissExpenseTracker** — a personal finance app tailored to life in Switzerland
 - 🌍 Learning **Spanish** on the side *(¡poco a poco!)*
@@ -67,14 +62,6 @@ I'm a Data Scientist based in Switzerland with a passion for turning messy data 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smueller-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="Sebastian's GitHub stats" height="165" />
-
-</div>
-
 ---
 
 <div align="center">
-
-*Feel free to connect, collaborate, or just say hi!* 👋
-
-</div>
