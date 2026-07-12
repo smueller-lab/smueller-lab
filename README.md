@@ -10,6 +10,11 @@ Based in Switzerland 🇨🇭 · Python at heart 🐍 · Sports enthusiast 🚴�
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-mueller-dsa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian96mueller@gmail.com)
+
+</div>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -62,6 +67,14 @@ I'm a Data Scientist & AI Engineer based in Switzerland who builds **data-driven
 
 <div align="center">
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smueller-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="Sebastian's GitHub stats" height="165" />
+
+</div>
+
 ---
 
 <div align="center">
+
+*Feel free to connect, collaborate, or just say hi!* 👋
+
+</div>
